@@ -1,0 +1,21 @@
+*******************************************
+******* PASOS PARA INICIAR PROYECYO  ******
+*******************************************
+
+git init
+git remote add origin https://github.com/[Usuario GitHub]/Prueba.git
+git branch -M main
+git add .
+git commit -m "first commit"
+git push -u origin main
+#Va solicitar iniciar session para autorizar el dispositivo.
+
+**********************************************
+******* PASOS PARA ACTUALIZAR PROYECYO  ******
+**********************************************
+
+git add .
+git commit -m "first commit"
+git push
+
+
